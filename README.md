@@ -1,4 +1,4 @@
-# ☀️ SolarSense: Solar Power Generation Forecasting Using Machine Learning
+# ☀️ Solar Power Output Forecasting Using Machine Learning
 
 ## 📌 Project Overview
 **SolarSense** is a machine learning project aimed at forecasting solar power generation using atmospheric and solar position data. With the growing importance of renewable energy, accurately predicting power output from solar panels can help optimize grid management, energy storage, and sustainability planning.
